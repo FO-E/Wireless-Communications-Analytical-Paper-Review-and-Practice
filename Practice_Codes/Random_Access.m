@@ -85,7 +85,7 @@ for i1=1:9
         
         test = preamble_matrix(:,i2);
         
-        check = sum( logical(test == test(1)) ); % Using the first column value as the tagged device
+        check = sum( logical(test == test(1)) ); % Using the first row value as the tagged device
         
         if( check > 1)
             col_event = col_event + 1;
