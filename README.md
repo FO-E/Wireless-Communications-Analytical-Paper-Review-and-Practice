@@ -9,6 +9,6 @@
 
 ## Physical Layer Security
 
-* Guaranteeing Secrecy using Artificial Noise ( IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS - JUNE, 2008 )
+* Guaranteeing Secrecy using Artificial Noise ( IEEE Transactions on Wireless Communications - JUNE, 2008 )
   
   * [Original Paper Link](https://ieeexplore.ieee.org/abstract/document/4543070) / [Summary PDF](/Lecture_Notes/Guaranteeing_Secrecy_Using_Artificial_Noise.pdf) / [Code Practice](/Practice_Codes/PLS_Codes)   
